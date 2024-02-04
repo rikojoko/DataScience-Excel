@@ -4,9 +4,15 @@ pengolahan data, manajemen data, kearsipan, pengelompokan data, penyajian data,
 distribusi data, hingga cara mengubah data menjadi kesatuan informasi yang dapat
 dipahami semua orang
 
+
 Data Cleansing juga dikenal dengan Data Scrubbing adalah proses menyiapkan data 
 dengan cara menghapus atau memodifikasi data yang salah, tidak relevan, tidak akurat, duplikat, 
 maupun yang tidak terformat. Setelah melewati tahap ini, barulah data siap untuk diolah.
+
+Analysis data adalah proses inspeksi, pembersihan dan pemodelan data dengan tujuan
+menemukan informasi yang berguna, menginformasikan kesimpulan dan mendukung
+pengambilan keputusan. Analisis data berperan dalam membuat keputusan lebih ilmiah
+dan membantu bisnis beroperasi lebih efektif
 
 PROSES DATA SCIENCE DAN ANALYSIS DARA
 
